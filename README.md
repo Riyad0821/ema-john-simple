@@ -1,5 +1,35 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Ema-John
+An application for selling products.
+## [Live Website] (https://ema-john11.netlify.app/)
+## [Backend Repository] (https://github.com/Riyad0821/ema-john-simple-server)
+
+## Project Status
+This project is currently in development. This website is a hub of services and products. Functionality to sort by additional parameters is in progress.
+
+## Features
+* Responsive single-page E-commerce site
+* Authorization for customers and admin panel
+* A customer can add any products to cart based on interests
+* After completion of shopping he/she can step forward for shipping
+* Admin can add products and keep track of progress
+
+## Using Technologies and libraries
+1. React.js
+2. Bootstrap
+3. Firebase Authorization
+4. Firebase Hosting
+5. Heroku Hosting
+6. React-bootstrap
+7. React-router
+8. React-font-awesome
+9. React-hook
+10. etc
+
+## Project Screen Shot(s)
+![Landing Page](src/images/Landing_page.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
