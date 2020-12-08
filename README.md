@@ -28,7 +28,7 @@ This project is currently in development. This website is a hub of services and 
 10. etc
 
 ## Project Screen Shot(s)
-![Landing Page](src/images/Landing_page.png)
+![Landing Page](src/images/Landing_page.PNG)
 
 ## Available Scripts
 
